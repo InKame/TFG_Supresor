@@ -48,9 +48,22 @@ Antes de ejecutar el sistema, es necesario configurar los coeficientes del camin
 configuración feedback basado en un microcontrolador. Elektron, 2:53–62, 12 2018.
 doi:10.37537/rev.elektron.2.2.49.2018.
 
-[2] S. Haykin. Adaptive Filter Theory, volume 4. 01 2002.
+[2] Pooya Davari and Hamid Hassanpour. Designing a new robust on-line secondary path
+modeling technique for feedforward active noise control systems. Signal Processing,
+89(6):1195–1204, June 2009. doi:10.1016/j.sigpro.2009.01.003.
 
-[3] Feiran Yang, Yin Cao, Ming Wu, Felix Albu, and Jun Yang. Frequency-domain
+[3] Colin H. Hansen. Understanding Active Noise Cancellation. CRC Press, 1999.
+
+[4] S. Haykin. Adaptive Filter Theory, volume 4. 01 2002.
+
+[5] S.M. Kuo and D.R. Morgan. Active noise control: a tutorial review. Proceedings of
+the IEEE, 87(6):943–973, 1999. doi:10.1109/5.763310.
+
+[6] Paolo Peretti, Stefania Cecchi, Laura Romoli, and Francesco Piazza. Adaptive feed
+back active noise control for yacht environments. IEEE Transactions on Control
+Systems Technology, 22:737–744, 03 2014. doi:10.1109/TCST.2013.2263335.
+
+[7] Feiran Yang, Yin Cao, Ming Wu, Felix Albu, and Jun Yang. Frequency-domain
 filtered-x lms algorithms for active noise control: A review and new insights. Applied
 Sciences, 8(11), 2018. URL: https://www.mdpi.com/2076-3417/8/11/2313, doi:
 10.3390/app8112313.
